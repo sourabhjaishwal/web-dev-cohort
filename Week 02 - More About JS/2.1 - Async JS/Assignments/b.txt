@@ -1,1 +1,1 @@
-Hi From b.txt
+Hi from b.txt file!
